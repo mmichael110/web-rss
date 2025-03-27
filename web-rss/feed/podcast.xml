@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>Desarrollo Web en Audio - Podcast Técnico para Programadores</title>
+        <link>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/</link>
+        <description>Podcast especializado en desarrollo web con episodios sobre HTML, CSS, JavaScript y frameworks modernos</description>
+        <language>es</language>
+        <itunes:author>Podcast Desarrollo Web</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/cover.jpg"/>
+
+        <item>
+            <title>Episodio 1: Técnicas y Estrategias</title>
+            <description>En este episodio, exploramos la técnica del saque flotante, una de las habilidades más efectivas en el vóley playa.</description>
+            <enclosure url="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio1.mp3" type="audio/mpeg"/>
+            <guid>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio1.mp3</guid>
+            <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
+            <itunes:duration>1800</itunes:duration>
+        </item>
+
+        <item>
+            <title>Episodio 2: Entrenamiento y Preparación</title>
+            <description>Descubre una rutina de entrenamiento diseñada específicamente para el vóley playa.</description>
+            <enclosure url="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio2.mp3" type="audio/mpeg"/>
+            <guid>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio2.mp3</guid>
+            <pubDate>Sun, 17 Mar 2024 00:00:00 GMT</pubDate>
+            <itunes:duration>2700</itunes:duration>
+        </item>
+
+        <item>
+            <title>Episodio 3: Cultura y Estilo de Vida</title>
+            <description>En este episodio, exploramos el estilo de vida único de los jugadores profesionales de vóley playa.</description>
+            <enclosure url="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio3.mp3" type="audio/mpeg"/>
+            <guid>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio3.mp3</guid>
+            <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+            <itunes:duration>3300</itunes:duration>
+        </item>
+    </channel>
+</rss>

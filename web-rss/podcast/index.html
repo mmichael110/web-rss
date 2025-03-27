@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Podcast especializado en desarrollo web con episodios sobre HTML, CSS, JavaScript y frameworks modernos">
+    <title>Desarrollo Web en Audio - Podcast Técnico para Programadores</title>
+    <link rel="stylesheet" href="../css/styles.css">
+    
+    <!-- Scripts externos con carga diferida -->
+    <link rel="stylesheet" href="https://www3.gobiernodecanarias.org/educacion/cau_ce/cookies/cookieconsent.min.css" media="print" onload="this.media='all'">
+    <script defer src="https://www3.gobiernodecanarias.org/educacion/cau_ce/cookies/cookieconsent.min.js"></script>
+    <script defer src="https://www3.gobiernodecanarias.org/educacion/cau_ce/cookies/cauce_cookie.js"></script>
+    <script defer src="https://www3.gobiernodecanarias.org/educacion/cau_ce/estadisticasweb/scripts/piwik-base.js"></script>
+    <script defer src="https://www3.gobiernodecanarias.org/educacion/cau_ce/estadisticasweb/scripts/piwik-eforma.js"></script>
+</head>
+
+<body>
+    <header role="banner">
+        <h1>Podcast de Desarrollo Web</h1>
+        <nav aria-label="Navegación principal">
+            <ul>
+                <li><a href="../index.html">Inicio</a></li>
+                <li><a href="#episodios">Episodios</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main role="main">
+        <section aria-labelledby="episodios">
+            <h2 id="episodios" class="visually-hidden">Episodios disponibles</h2>
+            
+            <article class="episodio" itemscope itemtype="http://schema.org/PodcastEpisode">
+                <h3 itemprop="name">Episodio 1: Técnicas y Estrategias</h3>
+                <div itemprop="description">
+                    <p>En este episodio, exploramos la técnica del saque flotante, una de las habilidades más efectivas en el vóley playa</p>
+                </div>
+                <audio controls aria-label="Reproductor de audio del episodio 1">
+                    <source src="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio1.mp3" 
+                            type="audio/mpeg">
+                    <a href="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio1.mp3" 
+                       download>Descargar episodio</a>
+                </audio>
+                <meta itemprop="duration" content="PT30M">
+                <meta itemprop="datePublished" content="2024-03-15">
+            </article>
+            <article class="episodio" itemscope itemtype="http://schema.org/PodcastEpisode">
+                <h3 itemprop="name">Episodio 2: Entrenamiento y Preparación</h3>
+                <div itemprop="description">
+                    <p>Descubre una rutina de entrenamiento diseñada específicamente para el vóley playa.</p>
+                </div>
+                <audio controls aria-label="Reproductor de audio del episodio 2">
+                    <source src="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio2.mp3" 
+                            type="audio/mpeg">
+                    <a href="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio2.mp3" 
+                       download>Descargar episodio</a>
+                </audio>
+                <meta itemprop="duration" content="PT45M">
+                <meta itemprop="datePublished" content="2024-03-17">
+            </article>
+
+            <!-- Episodio 3 - Nuevo -->
+            <article class="episodio" itemscope itemtype="http://schema.org/PodcastEpisode">
+                <h3 itemprop="name">Episodio 3: Cultura y Estilo de Vida</h3>
+                <div itemprop="description">
+                    <p>En este episodio, exploramos el estilo de vida único de los jugadores profesionales de vóley playa.</p>
+                </div>
+                <audio controls aria-label="Reproductor de audio del episodio 3">
+                    <source src="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio3.mp3" 
+                            type="audio/mpeg">
+                    <a href="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio3.mp3" 
+                       download>Descargar episodio</a>
+                </audio>
+                <meta itemprop="duration" content="PT55M">
+                <meta itemprop="datePublished" content="2024-03-19">
+            </article>
+        
+
+            <!-- Repetir estructura para otros episodios -->
+        </section>
+    </main>
+
+    <footer role="contentinfo">
+        <p>&copy; 2024 Podcast Desarrollo Web</p>
+        <a href="../index.html" class="boton">Volver al inicio</a>
+    </footer>
+</body>
+</html>

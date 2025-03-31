@@ -3,32 +3,59 @@
     <channel>
         <atom:link href="https://ichigar.neocities.org/tienda-regalos/feed/rss.xml" rel="self"
             type="application/rss+xml" />
-        <title>Blog</title>
-        <link>https://ichigar.neocities.org/blog/</link>
-        <description>Cosas interesantes</description>
+        <title>Fanáticos del Voley</title>
+        <link>http://localhost/mi-pagina-web-1/blog/index.html</link>
+        <description>Últimos artículos sobre vóley playa</description>
+        <language>es</language>
+        <copyright>Copyright 2025 Fanáticos del Voley</copyright>
+        
         <item>
-            <title>El Mejor Equipamiento</title>
-            <link>https:///blog/posts/post1.html</link>
-            <category>Post</category>
-            <description>El vóley playa exige un equipamiento adecuado para mejorar el rendimiento y la experiencia de juego</description>
-            <guid isPermaLink="false">Equipamiento</guid>
-            <pubDate>Sat, 22 Marc 2025 10:00:00 GMT</pubDate>
+            <title>Guía Completa para Elegir el Mejor Equipamiento</title>
+            <link>https://mmichael110.github.io/web-rss/blog/posts/post1.html</link>
+            <description>Descubre cómo elegir el mejor equipamiento para vóley playa.</description>
+            <pubDate>Tue, 02 Jan 2025 10:00:00 +0000</pubDate>
         </item>
+        
         <item>
-            <title>Técnicas y Estrategia</title>
-            <link>https://ichigar.neocities.org/blog/posts/post2.html</link>
-            <category>Post</category>
-            <description>El vóley playa no solo requiere habilidades físicas, sino también estrategias inteligentes para ganar partidos.</description>
-            <guid isPermaLink="false">Tecnicas-y-Estrategias</guid>
-            <pubDate>Sat, 22 Marc 2025 09:30:00 GMT</pubDate>
+            <title>Técnicas y Estrategias para Dominar el Vóley Playa</title>
+            <link>https://mmichael110.github.io/web-rss/blog/posts/post2.htmll</link>
+            <description>Consejos clave para mejorar tu desempeño en el vóley playa.</description>
+            <pubDate>Mon, 01 Jan 2025 10:00:00 +0000</pubDate>
         </item>
+        
         <item>
             <title>Beneficios del Vóley Playa</title>
-            <link>https://ichigar.neocities.org/blog/posts/post3.html</link>
-            <category>Post</category>
-            <description>El vóley playa no solo es un deporte emocionante, sino también una excelente manera de mejorar la salud y el bienestar.</description>
-            <guid isPermaLink="false">Beneficios-del-Voley-Playa</guid>
-            <pubDate>Sat, 22 Marc 2025 09:30:00 GMT</pubDate>
+            <link>https://mmichael110.github.io/web-rss/blog/posts/post3.html</link>
+            <description>Explora los beneficios físicos y mentales del vóley playa.</description>
+            <pubDate>Wed, 03 Jan 2025 10:00:00 +0000</pubDate>
+        </item>
+        
+        <!-- Episodios del Podcast -->
+        <item>
+            <title>Episodio 1: Técnicas y Estrategias</title>
+            <link>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio1.mp3</link>
+            <description>En este episodio, exploramos la técnica del saque flotante, una de las habilidades más efectivas en el vóley playa.</description>
+            <pubDate>Fri, 15 Mar 2024 10:00:00 +0000</pubDate>
+            <enclosure url="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio1.mp3" type="audio/mpeg" />
+            <guid>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio1.mp3</guid>
+        </item>
+        
+        <item>
+            <title>Episodio 2: Entrenamiento y Preparación</title>
+            <link>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio2.mp3</link>
+            <description>Descubre una rutina de entrenamiento diseñada específicamente para el vóley playa.</description>
+            <pubDate>Sun, 17 Mar 2024 10:00:00 +0000</pubDate>
+            <enclosure url="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio2.mp3" type="audio/mpeg" />
+            <guid>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio2.mp3</guid>
+        </item>
+        
+        <item>
+            <title>Episodio 3: Cultura y Estilo de Vida</title>
+            <link>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio3.mp3</link>
+            <description>En este episodio, exploramos el estilo de vida único de los jugadores profesionales de vóley playa.</description>
+            <pubDate>Tue, 19 Mar 2024 10:00:00 +0000</pubDate>
+            <enclosure url="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio3.mp3" type="audio/mpeg" />
+            <guid>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio3.mp3</guid>
         </item>
     </channel>
 </rss>

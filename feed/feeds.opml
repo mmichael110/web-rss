@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0">
     <head>
-        <title>Blog</title>
+        <title>Contenido Completo: Blog y Podcast</title>
     </head>
     <body>
+        <!-- Sección de Posts del Blog -->
         <outline text="Blog" title="Blog" type="rss" xmlUrl="https://mmichael110.github.io/web-rss/feed/rss.xml" htmlUrl="https://mmichael110.github.io/web-rss/">
             <outline text="El Mejor Equipamiento" title="El Mejor Equipamiento" type="rss" xmlUrl="https://mmichael110.github.io/web-rss/blog/posts/post1.html"/>
-            <outline text="Técnicas y Estrategia" title="Técnicas y Estrategia" type="rss" xmlUrl="https://mmichael110.github.io/web-rss/blog/posts/post2.html"/>
+            <outline text="Técnicas y Estrategias" title="Técnicas y Estrategias" type="rss" xmlUrl="https://mmichael110.github.io/web-rss/blog/posts/post2.html"/>
             <outline text="Beneficios del Vóley Playa" title="Beneficios del Vóley Playa" type="rss" xmlUrl="https://mmichael110.github.io/web-rss/blog/posts/post3.html"/>
-            <outline text="Beneficios del Vóley Playa" title="Podcast" type="rss" xmlUrl="https://mmichael110.github.io/web-rss/podcast/index.html"/>
+        </outline>
+
+        <!-- Sección de Episodios del Podcast -->
+        <outline text="Podcast" title="Podcast" type="rss" xmlUrl="https://mmichael110.github.io/web-rss/feed/podcast.xml" htmlUrl="https://mmichael110.github.io/web-rss/podcast/index.html">
+            <outline text="Episodio 1: Técnicas y Estrategias" title="Episodio 1: Técnicas y Estrategias" type="rss" xmlUrl="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio1.mp3"/>
+            <outline text="Episodio 2: Entrenamiento y Preparación" title="Episodio 2: Entrenamiento y Preparación" type="rss" xmlUrl="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio2.mp3"/>
+            <outline text="Episodio 3: Cultura y Estilo de Vida" title="Episodio 3: Cultura y Estilo de Vida" type="rss" xmlUrl="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/episodios/episodio3.mp3"/>
         </outline>
     </body>
 </opml>

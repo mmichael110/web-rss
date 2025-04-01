@@ -6,8 +6,8 @@
     <body>
         <!-- Sección de Posts del Blog -->
         <outline text="Blog" title="Blog" type="rss" xmlUrl="https://mmichael110.github.io/web-rss/feed/rss.xml" htmlUrl="https://mmichael110.github.io/web-rss/">
-            <outline text="El Mejor Equipamiento" title="El Mejor Equipamiento" type="rss" xmlUrl="https://mmichael110.github.io/web-rss/blog/posts/post1.html"/>
-            <outline text="Técnicas y Estrategias" title="Técnicas y Estrategias" type="rss" xmlUrl="https://mmichael110.github.io/web-rss/blog/posts/post2.html"/>
+            <outline text="Blog" title="El Mejor Equipamiento" type="rss" xmlUrl="https://mmichael110.github.io/web-rss/blog/posts/post1.html"/>
+            <outline text="Blog" title="Técnicas y Estrategias" type="rss" xmlUrl="https://mmichael110.github.io/web-rss/blog/posts/post2.html"/>
             <outline text="Beneficios del Vóley Playa" title="Beneficios del Vóley Playa" type="rss" xmlUrl="https://mmichael110.github.io/web-rss/blog/posts/post3.html"/>
         </outline>
 

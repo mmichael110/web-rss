@@ -89,7 +89,7 @@ header nav ul li a:hover {
 .subscription-buttons a {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #007bff;
+    background-color: #294731;
     color: white;
     text-decoration: none;
     border-radius: 5px;
@@ -152,7 +152,7 @@ footer div {
     margin: 0;
 }
 
-/* Responsive */
+/* Responsivo */
 @media (max-width: 768px) {
     .container {
         padding: 15px;

@@ -7,12 +7,13 @@
         <language>es</language>
         <itunes:author>Podcast Desarrollo Web</itunes:author>
         <itunes:explicit>false</itunes:explicit>
-        <itunes:image>
-            <url>https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/cover.jpg</url>
-        </itunes:image>
+        <itunes:image href="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/cover.jpg" />
         <atom:link href="https://ichigar.github.io/clases/lnd/recursos/ut5/podcast/podcast.xml" rel="self" type="application/rss+xml" />
         <itunes:category text="Technology" />
-        <itunes:email>contacto@podcastdesarrolloweb.com</itunes:email>
+        <itunes:owner>
+            <itunes:name>Podcast Desarrollo Web</itunes:name>
+            <itunes:email>contacto@podcastdesarrolloweb.com</itunes:email>
+        </itunes:owner>
 
         <item>
             <title>Episodio 1: Técnicas y Estrategias</title>

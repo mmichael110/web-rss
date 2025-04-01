@@ -82,20 +82,8 @@ header nav ul li a:hover {
 .subscription-buttons {
     justify-content: center;
     margin-top: 20px;
-}
-
-.subscription-buttons a {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #294731;
-    color: white;
-    text-decoration: none;
-    border-radius: 5px;
-    text-align: center;
-}
-
-.subscription-buttons a:hover {
-    background-color: #0056b3;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .subscription-buttons a {
@@ -110,6 +98,13 @@ header nav ul li a:hover {
 
 .subscription-buttons a:hover {
     background-color: #0056b3;
+}
+
+/* Estilo para los enlaces con imágenes */
+.subscription-buttons img {
+    display: block;
+    margin: 10px auto 0;
+    max-width: 100px;
 }
 
 /* Pie de página */

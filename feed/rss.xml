@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <atom:link href="https://ichigar.neocities.org/tienda-regalos/feed/rss.xml" rel="self"
+        <atom:link href="http://localhost/mi-pagina-web-1/feed/rss.xml" rel="self"
             type="application/rss+xml" />
         <title>Fanáticos del Voley</title>
         <link>http://localhost/mi-pagina-web-1/blog/index.html</link>
@@ -12,22 +12,25 @@
         <item>
             <title>Guía Completa para Elegir el Mejor Equipamiento</title>
             <link>https://mmichael110.github.io/web-rss/blog/posts/post1.html</link>
+            <guid>https://mmichael110.github.io/web-rss/blog/posts/post1.html</guid>
             <description>Descubre cómo elegir el mejor equipamiento para vóley playa.</description>
-            <pubDate>Tue, 02 Jan 2025 10:00:00 +0000</pubDate>
+            <pubDate>Thu, 02 Jan 2025 10:00:00 +0000</pubDate>
         </item>
         
         <item>
             <title>Técnicas y Estrategias para Dominar el Vóley Playa</title>
-            <link>https://mmichael110.github.io/web-rss/blog/posts/post2.htmll</link>
+            <link>https://mmichael110.github.io/web-rss/blog/posts/post2.html</link>
+            <guid>https://mmichael110.github.io/web-rss/blog/posts/post2.html</guid>
             <description>Consejos clave para mejorar tu desempeño en el vóley playa.</description>
-            <pubDate>Mon, 01 Jan 2025 10:00:00 +0000</pubDate>
+            <pubDate>Wed, 01 Jan 2025 10:00:00 +0000</pubDate>
         </item>
         
         <item>
             <title>Beneficios del Vóley Playa</title>
             <link>https://mmichael110.github.io/web-rss/blog/posts/post3.html</link>
+            <guid>https://mmichael110.github.io/web-rss/blog/posts/post3.html</guid>
             <description>Explora los beneficios físicos y mentales del vóley playa.</description>
-            <pubDate>Wed, 03 Jan 2025 10:00:00 +0000</pubDate>
+            <pubDate>Fri, 03 Jan 2025 10:00:00 +0000</pubDate>
         </item>
         
     </channel>

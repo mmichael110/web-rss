@@ -94,6 +94,15 @@ header nav ul li a:hover {
     background-color: #0056b3;
 }
 
+/* Imágenes uniformes en index.html */
+.card img {
+    width: 100%;
+    height: 200px; /* Altura fija para uniformidad */
+    object-fit: cover; /* Ajustar la imagen sin deformarla */
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
 /* Podcast Episodios */
 .episodio {
     background-color: white;
@@ -338,6 +347,51 @@ footer div {
     font-size: 2rem;
     color: #007bff;
     margin: 0;
+}
+
+/* Post Destacado */
+.post-destacado {
+    text-align: center;
+    margin: 30px auto;
+    padding: 20px;
+    max-width: 800px;
+}
+
+.post-destacado h2 {
+    font-size: 1.5rem;
+    color: #007bff;
+    margin-bottom: 15px;
+}
+
+.post-destacado .productos {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    
+}
+
+.post-destacado .producto {
+    flex: 1 1 calc(33.333% - 15px);
+    max-width: 250px;
+    text-align: center;
+}
+
+.post-destacado .producto img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.post-destacado .producto h3 {
+    font-size: 1rem;
+    color: #2f8be6;
+    margin: 10px 0;
+}
+
+.post-destacado .producto a {
+    text-decoration: none;
+    color: inherit;
 }
 
 /* Responsivo */

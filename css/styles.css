@@ -241,7 +241,9 @@ footer div {
     margin-top: 20px;
     display: grid;
     justify-content: center;
-    flex-wrap: wrap;
+    display: table;
+    margin: 0 auto;
+    text-align: center;
 }
 
 .subscription-buttons a {
@@ -296,7 +298,9 @@ footer div {
 }
 
 .post-destacado .productos {
-    display: flex;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
     justify-content: center;
     gap: 15px;
     
